@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\Mera_\OneDrive\Документы\Publii\sites\dolcevitaaccessoriescom\preview/sitemap.xml
