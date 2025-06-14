@@ -67,7 +67,11 @@ body {
   font-variation-settings: "wght" var(--font-weight-normal);
   letter-spacing: var(--letter-spacing);
   line-height: var(--line-height);
+<<<<<<< HEAD
   /* padding-top: calc(var(--header-height) + 3rem); */
+=======
+  padding-top: calc(var(--header-height) + 3rem);
+>>>>>>> 1e516fa7dfe24115079c22fb571c7b43891f5d4a
   overflow-x: hidden;
   -ms-scroll-chaining: none;
       overscroll-behavior: none;
@@ -1202,12 +1206,16 @@ textarea {
   margin: auto;
   padding-bottom: calc(3rem + 1.5vw);
   text-align: center;
+<<<<<<< HEAD
   /* max-width: var(--entry-width); */
 }
 .hero2 {
   margin: auto;
   padding-bottom: calc(3rem + 1.5vw);
   text-align: center;
+=======
+  max-width: var(--entry-width);
+>>>>>>> 1e516fa7dfe24115079c22fb571c7b43891f5d4a
 }
 .hero h1 {
   margin-top: 1rem;
@@ -1223,7 +1231,11 @@ textarea {
 @media all and (min-width: 56.25em) {
   .hero p {
     font-size: 0.8888888889rem;
+<<<<<<< HEAD
     /* max-width: var(--entry-width); */
+=======
+    max-width: var(--entry-width);
+>>>>>>> 1e516fa7dfe24115079c22fb571c7b43891f5d4a
     margin-left: auto;
     margin-right: auto;
   }

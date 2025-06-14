@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
+<<<<<<< HEAD
 Sitemap: file:///C:\Users\Mera_\OneDrive\Документы\Publii\sites\dolcevitaaccessoriescom\preview/sitemap.xml
+=======
+Sitemap: https://akochetova.github.io/dolcevitaaccessories/sitemap.xml
+>>>>>>> 1e516fa7dfe24115079c22fb571c7b43891f5d4a
